@@ -8,7 +8,6 @@ This is the GitHub source
 https://github.com/portexe/typescript-the-basics
 
 These are the steps used in creating this sample project that I documented from his very helpful Youtube video.
---------------
 
 - Create new directory and CD into it
 - Run 'npm init' (to create package.json - use defaults for everything asked in the CLI)
