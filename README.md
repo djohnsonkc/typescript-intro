@@ -1,5 +1,4 @@
-TypeScript Intro
-------------------
+# TypeScript Intro
 
 This is a copy of PortExe's very helpful tutorial, but with the steps documented below.
 
